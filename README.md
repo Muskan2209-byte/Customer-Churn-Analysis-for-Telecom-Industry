@@ -59,7 +59,10 @@ Visualized model predictions, feature importance, and customer segmentation to f
 
 # Key Insights
 
-* Strategic Insights- 
+* Strategic Insights-
+   
   Customer Segmentation: Identify high-risk customer segments prone to churn.
+  
   Service Optimization: Evaluate the impact of service features and contract terms on customer retention.
+  
   Financial Impact: Quantify revenue loss due to churn and explore strategies for revenue recovery.
