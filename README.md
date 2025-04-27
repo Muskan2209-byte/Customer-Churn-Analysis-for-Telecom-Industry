@@ -84,8 +84,9 @@ Visualized model predictions, feature importance, and customer segmentation to f
 
 * Install the project dependencies by running the following command:
 
-pip install -r requirements.txt
-Navigate through the project's directories and files to get acquainted with its structure.
+ pip install -r requirements.txt
+
+ Navigate through the project's directories and files to get acquainted with its structure.
 
 * __Dataset Handling:__
 
