@@ -70,28 +70,31 @@ Visualized model predictions, feature importance, and customer segmentation to f
   # References
 
   https://www.hockeystack.com/
+  
   https://www.klipfolio.com/resources/kpi-examples/call-center/subscriber-acquisition-cost
+  
   https://www.zendesk.com/in/blog/customer-churn-rate/#
+  
   https://www.paddle.com/resources/churn-prevention
 
 # Usage Instructions
 
-__Clone the Repository:__
+* __Clone the Repository:__
 
-git clone https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction.git
-cd Telecom-Customer-Churn-Prediction
+ git clone https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction.git
+ cd Telecom-Customer-Churn-Prediction
 
-Install the project dependencies by running the following command:
+* Install the project dependencies by running the following command:
 
 pip install -r requirements.txt
 Navigate through the project's directories and files to get acquainted with its structure.
 
-__Dataset Handling:__
+* __Dataset Handling:__
 
-Load the dataset using Python, R, or your preferred data analysis tool.
-Explore and preprocess data to prepare for churn prediction modeling.
+*Load the dataset using Python, R, or your preferred data analysis tool.
+*Explore and preprocess data to prepare for churn prediction modeling.
 
-__Model Development:__
+* __Model Development:__
 
-Train and evaluate machine learning models to predict customer churn.
-Fine-tune models based on performance metrics to optimize predictions.
+*Train and evaluate machine learning models to predict customer churn.
+*Fine-tune models based on performance metrics to optimize predictions.
