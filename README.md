@@ -57,3 +57,9 @@ Evaluated model performance based on metrics such as accuracy, precision, recall
 Implemented Power BI to create interactive dashboards and visualizations that provide intuitive insights into churn patterns.
 Visualized model predictions, feature importance, and customer segmentation to facilitate strategic decision-making and operational planning.
 
+# Key Insights
+
+* Strategic Insights- 
+  Customer Segmentation: Identify high-risk customer segments prone to churn.
+  Service Optimization: Evaluate the impact of service features and contract terms on customer retention.
+  Financial Impact: Quantify revenue loss due to churn and explore strategies for revenue recovery.
