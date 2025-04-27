@@ -4,7 +4,7 @@ In the competitive telecom industry, customer retention is crucial for maintaini
 
 This repository provides a comprehensive solution, including the dataset, predictive modeling code, and insights into the primary drivers of customer attrition. It also offers actionable recommendations to help telecom companies strengthen customer retention efforts.
 
-Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+
 
 # Tables 0f Content
 
