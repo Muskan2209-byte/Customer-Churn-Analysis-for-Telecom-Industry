@@ -53,7 +53,7 @@ Developed and fine-tuned machine learning models including Logistic Regression, 
 Evaluated model performance based on metrics such as accuracy, precision, recall, and ROC-AUC score to select the optimal model for churn prediction.
 
 4. Power BI for Visual Insights:
-
+   
 Implemented Power BI to create interactive dashboards and visualizations that provide intuitive insights into churn patterns.
 Visualized model predictions, feature importance, and customer segmentation to facilitate strategic decision-making and operational planning.
 
@@ -66,3 +66,32 @@ Visualized model predictions, feature importance, and customer segmentation to f
   Service Optimization: Evaluate the impact of service features and contract terms on customer retention.
   
   Financial Impact: Quantify revenue loss due to churn and explore strategies for revenue recovery.
+
+  # References
+
+  https://www.hockeystack.com/
+  https://www.klipfolio.com/resources/kpi-examples/call-center/subscriber-acquisition-cost
+  https://www.zendesk.com/in/blog/customer-churn-rate/#
+  https://www.paddle.com/resources/churn-prevention
+
+# Usage Instructions
+
+__Clone the Repository:__
+
+git clone https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction.git
+cd Telecom-Customer-Churn-Prediction
+
+Install the project dependencies by running the following command:
+
+pip install -r requirements.txt
+Navigate through the project's directories and files to get acquainted with its structure.
+
+__Dataset Handling:__
+
+Load the dataset using Python, R, or your preferred data analysis tool.
+Explore and preprocess data to prepare for churn prediction modeling.
+
+__Model Development:__
+
+Train and evaluate machine learning models to predict customer churn.
+Fine-tune models based on performance metrics to optimize predictions.
